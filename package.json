@@ -2,7 +2,7 @@
   "author": "Alec Gorge <alecgorge@gmail.com> (http://alecgorge.com/)",
   "name": "fast-vobject",
   "description": "A very light and speedy vObject/vCalendar serializer. Supports multiple events and any property.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/alecgorge/fast-vobject.git"
@@ -21,5 +21,10 @@
   "devDependencies": {
     "coffee-script": ">= 1.6"
   },
-  "keywords": ["vobject", "vcalendar", "vevent", "calendar"]
+  "keywords": [
+    "vobject",
+    "vcalendar",
+    "vevent",
+    "calendar"
+  ]
 }
