@@ -12,7 +12,6 @@ class vProperty
 		   .replace(/;/g, '\\;')
 		   .replace(/\r/g, '\\n')
 		   .replace(/\n/g, '\\n')
-		   .replace(/:/g, '\\:')
 		   .replace(/,/g, '\\,')
 
 	wrap: (line) ->
