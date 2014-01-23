@@ -9,7 +9,7 @@
   },
   "main": "lib/vobject.js",
   "scripts": {
-    "prepublish": "coffee -o lib/ src/vobject.coffee"
+    "prepublish": "./node_modules/.bin/coffee -o lib/ src/vobject.coffee"
   },
   "engines": {
     "node": ">= 0.8.0"
